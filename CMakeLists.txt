@@ -12,3 +12,4 @@ add_executable(assembler
     src/opcode_table.c
     src/assembler.c
 )
+
