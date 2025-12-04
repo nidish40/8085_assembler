@@ -1,0 +1,5 @@
+D:\Embedded\8085-assembler\src\main.c;D:\Embedded\8085-assembler\build\assembler.dir\Debug\main.obj
+D:\Embedded\8085-assembler\src\lexer.c;D:\Embedded\8085-assembler\build\assembler.dir\Debug\lexer.obj
+D:\Embedded\8085-assembler\src\parser.c;D:\Embedded\8085-assembler\build\assembler.dir\Debug\parser.obj
+D:\Embedded\8085-assembler\src\opcode_table.c;D:\Embedded\8085-assembler\build\assembler.dir\Debug\opcode_table.obj
+D:\Embedded\8085-assembler\src\assembler.c;D:\Embedded\8085-assembler\build\assembler.dir\Debug\assembler.obj

@@ -1,0 +1,3 @@
+D:/Embedded/8085-assembler/build/CMakeFiles/assembler.dir
+D:/Embedded/8085-assembler/build/CMakeFiles/ALL_BUILD.dir
+D:/Embedded/8085-assembler/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\EMBEDDED\8085-ASSEMBLER\BUILD\CMAKEFILES\89010E5760B292D94C60BBB835D7B877\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Embedded/8085-assembler -BD:/Embedded/8085-assembler/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Embedded/8085-assembler/build/8085Assembler.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
